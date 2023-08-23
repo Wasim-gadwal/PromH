@@ -1,4 +1,4 @@
-var countdownDate = new Date("July 12, 2023 00:00:00").getTime()
+var countdownDate = new Date("August 27, 2023 12:12:12").getTime()
 //can put in a prompt as well for a custom countdown timer website
 
 var x = setInterval(() => {
